@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877793854661",
+    "project_id": "ricetta-72835",
+    "storage_bucket": "ricetta-72835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877793854661:android:d33087d25ecdc1c6c01cac",
+        "android_client_info": {
+          "package_name": "com.app.ricetta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877793854661-4aeuhdkeuifclbf8of8kkiknb11hop2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN5vDL9jXVx9mKJS2ziiOcRT36R-4hnek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877793854661-4aeuhdkeuifclbf8of8kkiknb11hop2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
